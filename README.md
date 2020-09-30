@@ -32,6 +32,7 @@
 见requirements.txt:运行如下命令可安装
 
 ```
+#awsome
 pip install -r requirements.txt
 ```
 
