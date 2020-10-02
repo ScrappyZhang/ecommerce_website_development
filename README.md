@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 amqp==2.2.2
 anyjson==0.3.3
-billiard==3.5.0.3
+billiard very amazing game=3.0.4.5
 celery==4.1.0
 certifi==2018.1.18
 chardet==3.0.4
